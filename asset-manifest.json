@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/snappbox-appticket/static/css/main.5768523f.css",
-    "main.js": "/snappbox-appticket/static/js/main.7bb31e83.js",
+    "main.js": "/snappbox-appticket/static/js/main.4be3bb5f.js",
     "static/media/star.jpg": "/snappbox-appticket/static/media/star.9b8406ddac8fa35887f7.jpg",
     "static/media/loginImage.png": "/snappbox-appticket/static/media/loginImage.ec6a5f9a510b2663ecea.png",
     "static/media/Vazir.ttf": "/snappbox-appticket/static/media/Vazir.a5069e8a430821ec1756.ttf",
@@ -12,10 +12,10 @@
     "static/media/question.png": "/snappbox-appticket/static/media/question.4e6197f622af60f33a3b.png",
     "index.html": "/snappbox-appticket/index.html",
     "main.5768523f.css.map": "/snappbox-appticket/static/css/main.5768523f.css.map",
-    "main.7bb31e83.js.map": "/snappbox-appticket/static/js/main.7bb31e83.js.map"
+    "main.4be3bb5f.js.map": "/snappbox-appticket/static/js/main.4be3bb5f.js.map"
   },
   "entrypoints": [
     "static/css/main.5768523f.css",
-    "static/js/main.7bb31e83.js"
+    "static/js/main.4be3bb5f.js"
   ]
 }
