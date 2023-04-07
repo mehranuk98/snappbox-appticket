@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fe43f7c.css",
+    "main.js": "/static/js/main.3652800c.js",
+    "static/media/star.jpg": "/static/media/star.9b8406ddac8fa35887f7.jpg",
+    "static/media/loginImage.png": "/static/media/loginImage.ec6a5f9a510b2663ecea.png",
+    "static/media/Vazir.ttf": "/static/media/Vazir.a5069e8a430821ec1756.ttf",
+    "static/media/user.png": "/static/media/user.b53a8a7e96bfa5cbe71c.png",
+    "static/media/warning.png": "/static/media/warning.0fcf26706195a1d02880.png",
+    "static/media/question.png": "/static/media/question.4e6197f622af60f33a3b.png",
+    "index.html": "/index.html",
+    "main.2fe43f7c.css.map": "/static/css/main.2fe43f7c.css.map",
+    "main.3652800c.js.map": "/static/js/main.3652800c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fe43f7c.css",
+    "static/js/main.3652800c.js"
+  ]
+}
