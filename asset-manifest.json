@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/snappbox-appticket/static/css/main.5768523f.css",
-    "main.js": "/snappbox-appticket/static/js/main.a970b4db.js",
-    "static/media/star.jpg": "/snappbox-appticket/static/media/star.9b8406ddac8fa35887f7.jpg",
-    "static/media/loginImage.png": "/snappbox-appticket/static/media/loginImage.ec6a5f9a510b2663ecea.png",
-    "static/media/Vazir.ttf": "/snappbox-appticket/static/media/Vazir.a5069e8a430821ec1756.ttf",
-    "static/media/sun.png": "/snappbox-appticket/static/media/sun.c0c33929d1521202a555.png",
-    "static/media/user.png": "/snappbox-appticket/static/media/user.b53a8a7e96bfa5cbe71c.png",
-    "static/media/moon.png": "/snappbox-appticket/static/media/moon.a19e3b93b71ed46b3178.png",
-    "static/media/warning.png": "/snappbox-appticket/static/media/warning.0fcf26706195a1d02880.png",
-    "static/media/question.png": "/snappbox-appticket/static/media/question.4e6197f622af60f33a3b.png",
-    "index.html": "/snappbox-appticket/index.html",
-    "main.5768523f.css.map": "/snappbox-appticket/static/css/main.5768523f.css.map",
-    "main.a970b4db.js.map": "/snappbox-appticket/static/js/main.a970b4db.js.map"
+    "main.css": "/static/css/main.7baf1978.css",
+    "main.js": "/static/js/main.41bdc3aa.js",
+    "static/media/star.jpg": "/static/media/star.9b8406ddac8fa35887f7.jpg",
+    "static/media/loginImage.png": "/static/media/loginImage.ec6a5f9a510b2663ecea.png",
+    "static/media/Vazir.ttf": "/static/media/Vazir.a5069e8a430821ec1756.ttf",
+    "static/media/sun.png": "/static/media/sun.c0c33929d1521202a555.png",
+    "static/media/user.png": "/static/media/user.b53a8a7e96bfa5cbe71c.png",
+    "static/media/moon.png": "/static/media/moon.a19e3b93b71ed46b3178.png",
+    "static/media/warning.png": "/static/media/warning.0fcf26706195a1d02880.png",
+    "static/media/question.png": "/static/media/question.4e6197f622af60f33a3b.png",
+    "index.html": "/index.html",
+    "main.7baf1978.css.map": "/static/css/main.7baf1978.css.map",
+    "main.41bdc3aa.js.map": "/static/js/main.41bdc3aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.5768523f.css",
-    "static/js/main.a970b4db.js"
+    "static/css/main.7baf1978.css",
+    "static/js/main.41bdc3aa.js"
   ]
 }
