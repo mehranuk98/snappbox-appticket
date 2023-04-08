@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/snappbox-appticket/static/css/main.5768523f.css",
-    "main.js": "/snappbox-appticket/static/js/main.7f2951d4.js",
+    "main.css": "/snappbox-appticket/static/css/main.96c28134.css",
+    "main.js": "/snappbox-appticket/static/js/main.b1e579a0.js",
     "static/media/star.jpg": "/snappbox-appticket/static/media/star.9b8406ddac8fa35887f7.jpg",
     "static/media/loginImage.png": "/snappbox-appticket/static/media/loginImage.ec6a5f9a510b2663ecea.png",
     "static/media/Vazir.ttf": "/snappbox-appticket/static/media/Vazir.a5069e8a430821ec1756.ttf",
@@ -11,11 +11,11 @@
     "static/media/warning.png": "/snappbox-appticket/static/media/warning.0fcf26706195a1d02880.png",
     "static/media/question.png": "/snappbox-appticket/static/media/question.4e6197f622af60f33a3b.png",
     "index.html": "/snappbox-appticket/index.html",
-    "main.5768523f.css.map": "/snappbox-appticket/static/css/main.5768523f.css.map",
-    "main.7f2951d4.js.map": "/snappbox-appticket/static/js/main.7f2951d4.js.map"
+    "main.96c28134.css.map": "/snappbox-appticket/static/css/main.96c28134.css.map",
+    "main.b1e579a0.js.map": "/snappbox-appticket/static/js/main.b1e579a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5768523f.css",
-    "static/js/main.7f2951d4.js"
+    "static/css/main.96c28134.css",
+    "static/js/main.b1e579a0.js"
   ]
 }
